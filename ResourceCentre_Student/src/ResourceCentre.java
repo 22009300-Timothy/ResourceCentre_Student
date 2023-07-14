@@ -2,6 +2,7 @@ import java.util.ArrayList;
 //RyanLoh
 //Xavier
 //Toby
+//JianHong
 
 public class ResourceCentre {
 
